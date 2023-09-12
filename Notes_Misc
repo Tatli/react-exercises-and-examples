@@ -1,0 +1,8 @@
+# Miscellanious Notes
+
+## Extensions for convenience
+
+This will make your development life a little bit more easy:
+https://github.com/reactjs/rfcs
+
+When you run "rfc" inside of a document, it will create a "React Functional Component" for you automatically.
